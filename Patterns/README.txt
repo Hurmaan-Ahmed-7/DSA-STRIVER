@@ -1,0 +1,2 @@
+These are solutions to pattern Questions from striver's A2Z DSA course.
+This is the [link](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) to these questions.
